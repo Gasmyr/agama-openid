@@ -21,7 +21,8 @@
         "org.gluu.inbound.oauth2.AuthzCode": {},
         "org.gluu.inbound.oauth2.AuthzCodeWithUserInfo": {},
         "org.gluu.inbound.openid": {},
-        "com.sample.testing": {}
+        "com.sample.testing": {},
+        "com.testing.sample": {}
     },
     "name": "agama-openid"
 }
