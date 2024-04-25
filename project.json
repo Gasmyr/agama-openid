@@ -19,7 +19,8 @@
     "configs": {
         "org.gluu.inbound.oauth2.AuthzCode": {},
         "org.gluu.inbound.oauth2.AuthzCodeWithUserInfo": {},
-        "com.sample.testing": {}
+        "com.sample.testing": {},
+        "com.example.gasmyr.runner": {}
     },
     "name": "agama-openid"
 }
